@@ -1,4 +1,4 @@
-# Cloud-Based-Threat-Hunting
+# Cloud-Based-Threat-Hunting Lab
 
 ### **Objective**
 To proactively hunt for potential data exfiltration and unauthorized geographic access within a Microsoft Azure environment. The goal was to utilize **Kusto Query Language (KQL)** to audit network flows, identify high-risk traffic patterns, and perform forensic triage on suspicious external connections.
