@@ -14,7 +14,7 @@ To proactively hunt for potential data exfiltration and unauthorized geographic 
 * **Kusto Query Language (KQL):** The primary engine for data analysis.
 * **VirusTotal:** For external IP reputation checks and OSINT verification.
 
----
+
 
 ### **Steps Taken**
 
